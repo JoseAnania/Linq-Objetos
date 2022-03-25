@@ -1,0 +1,14 @@
+D:\Dev\C#\Consola\Linq\ObjetosLinq\ObjetosLinq\bin\Debug\netcoreapp3.1\ObjetosLinq.exe
+D:\Dev\C#\Consola\Linq\ObjetosLinq\ObjetosLinq\bin\Debug\netcoreapp3.1\ObjetosLinq.deps.json
+D:\Dev\C#\Consola\Linq\ObjetosLinq\ObjetosLinq\bin\Debug\netcoreapp3.1\ObjetosLinq.runtimeconfig.json
+D:\Dev\C#\Consola\Linq\ObjetosLinq\ObjetosLinq\bin\Debug\netcoreapp3.1\ObjetosLinq.runtimeconfig.dev.json
+D:\Dev\C#\Consola\Linq\ObjetosLinq\ObjetosLinq\bin\Debug\netcoreapp3.1\ObjetosLinq.dll
+D:\Dev\C#\Consola\Linq\ObjetosLinq\ObjetosLinq\bin\Debug\netcoreapp3.1\ObjetosLinq.pdb
+D:\Dev\C#\Consola\Linq\ObjetosLinq\ObjetosLinq\obj\Debug\netcoreapp3.1\ObjetosLinq.csproj.AssemblyReference.cache
+D:\Dev\C#\Consola\Linq\ObjetosLinq\ObjetosLinq\obj\Debug\netcoreapp3.1\ObjetosLinq.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\C#\Consola\Linq\ObjetosLinq\ObjetosLinq\obj\Debug\netcoreapp3.1\ObjetosLinq.AssemblyInfoInputs.cache
+D:\Dev\C#\Consola\Linq\ObjetosLinq\ObjetosLinq\obj\Debug\netcoreapp3.1\ObjetosLinq.AssemblyInfo.cs
+D:\Dev\C#\Consola\Linq\ObjetosLinq\ObjetosLinq\obj\Debug\netcoreapp3.1\ObjetosLinq.csproj.CoreCompileInputs.cache
+D:\Dev\C#\Consola\Linq\ObjetosLinq\ObjetosLinq\obj\Debug\netcoreapp3.1\ObjetosLinq.dll
+D:\Dev\C#\Consola\Linq\ObjetosLinq\ObjetosLinq\obj\Debug\netcoreapp3.1\ObjetosLinq.pdb
+D:\Dev\C#\Consola\Linq\ObjetosLinq\ObjetosLinq\obj\Debug\netcoreapp3.1\ObjetosLinq.genruntimeconfig.cache
